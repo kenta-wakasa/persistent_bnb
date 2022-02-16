@@ -1,16 +1,3 @@
-# persistent_bnb
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ボトムナビゲーションバーを残して画面遷移
+<img src="https://user-images.githubusercontent.com/66857966/154200662-87f5c62e-e7ec-4d47-8c63-7f490cf0baed.png" height=320><img src="https://user-images.githubusercontent.com/66857966/154200672-d8bdf619-f55f-4235-8d7e-7d95d166d4cc.png" height=320> <img src="https://user-images.githubusercontent.com/66857966/154200685-4a964619-403a-4c96-84ec-666cca82e035.png" height=320><img src="https://user-images.githubusercontent.com/66857966/154200689-dfb7f8ea-d13a-4492-8d9d-dc2f0a91c631.png" height=320> <img src="https://user-images.githubusercontent.com/66857966/154200697-6d7c39dc-f87c-4857-a91a-970f084e3938.png" height=320>
+<img src="https://user-images.githubusercontent.com/66857966/154200692-7073b86d-f3ce-4862-b90d-1694fc391ab8.png" height=320>
